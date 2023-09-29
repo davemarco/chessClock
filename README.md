@@ -10,15 +10,15 @@ Buttons are debounced and each have a pull down resistor.
 https://github.com/davemarco/chessClock/assets/83603688/1887b5f4-ac30-4730-95d1-29baecf1d554
 
 ## Files
-ChessClock.ino - contains main loop and setup
-Button.cpp - button class responsible for debouncing
-Clock.cpp - clock class resonsible for keeping player time
+ChessClock.ino - contains main loop and setup <br>
+Button.cpp - button class responsible for debouncing <br>
+Clock.cpp - clock class resonsible for keeping player time <br>
 buttonResponse.cpp - callback function for changing player turn on button press
 
 ## Hardware
-1 x Adafruit METRO 328 (Arduino)
-2 x Adafruit 1.2" 4-Digit 7-Segment Display w/I2C Backpack
-2 x 12mm Square Tactile Button Switch
+1 x Adafruit METRO 328 (Arduino) <br>
+2 x Adafruit 1.2" 4-Digit 7-Segment Display w/I2C Backpack <br>
+2 x 12mm Square Tactile Button Switch <br>
 2 x 100 ohm resistors  
 
 ## Circuit Diagram
