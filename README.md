@@ -7,7 +7,7 @@ Buttons send signals to Arduino to change player turn and add increment.
 Buttons are debounced and each have a pull down resistor.
 
 ## Demo
-https://github.com/davemarco/chessClock/assets/83603688/48da3e57-226a-41ae-a6be-07e6e126f5b0
+https://github.com/davemarco/chessClock/assets/83603688/1887b5f4-ac30-4730-95d1-29baecf1d554
 
 ## Files
 ChessClock.ino - contains main loop and setup
@@ -22,7 +22,8 @@ buttonResponse.cpp - callback function for changing player turn on button press
 2 x 100 ohm resistors
 
 ## Circuit Diagram
-![Circuit Diagram](https://github.com/davemarco/chessClock/assets/83603688/c4d1f427-f712-413e-a163-3df70f601181)
+![Circuit Diagram](https://github.com/davemarco/chessClock/assets/83603688/e00e57eb-70ff-4f91-b4c5-b74c32fc257b)
+
 
 
 
